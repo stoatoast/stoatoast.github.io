@@ -105,5 +105,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/stoatoast/stoatoast.github.io
-  branch: master
+  branch: hexo
   message: Update Hexo Static Content
