@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: stoatoast's blog
+title: Stoatoast's Blog
 subtitle: ''
 description: ''
-keywords:
+keywords: 
 author: Bingo
-language: en
+language: en/zh-CN
 timezone: ''
 
 # URL
